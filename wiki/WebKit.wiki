@@ -1,0 +1,5 @@
+#summary Description of WebKit
+
+= WebKit =
+
+WebKit is the HTML rendering engine powering desktop web browsers including Safari and Chrome. It also powers Mobile Safari (iPhone), Android, and the Palm Pre.
